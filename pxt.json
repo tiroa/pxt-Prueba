@@ -1,0 +1,11 @@
+{
+    "name": "pxt-Prueba",
+    "description": "Probar varias funcionalidades",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
